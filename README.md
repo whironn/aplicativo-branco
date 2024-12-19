@@ -1,6 +1,6 @@
-# myapp
+# Aplicativo Teste
 
-A new Flutter project.
+Esse é um projeto usando Flutter para desenvolver uma interface Web/Android responsiva para o Módulo 11 do Talento Tech de Desenvolvimento Web.
 
 ## Getting Started
 
