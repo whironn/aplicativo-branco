@@ -1,6 +1,6 @@
 # Aplicativo Teste
 
-Esse é um projeto usando Flutter para desenvolver uma interface Web/Android responsiva para o Módulo 11 do Talento Tech de Desenvolvimento Web.
+Esse é um projeto usando Flutter, onde foi desenvolvido uma interface/layout Web/Android responsivo para o Módulo 11 do Talento Tech de Desenvolvimento Web.
 
 ## Acessando o Projeto
 
